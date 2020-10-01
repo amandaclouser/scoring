@@ -1,6 +1,5 @@
 //
 //  RegisterView.swift
-//  SwiftUI Skeleton App
 //
 //  Created by PW486 on 2019/09/14.
 //  Copyright © 2019 PW486. All rights reserved.
@@ -39,7 +38,7 @@ struct RegisterView: View {
       Text("REGISTER")
         .bold()
         .font(.largeTitle)
-      Text("SwiftUI Skeleton App")
+      Text("H & F Scoring")
         .font(.subheadline)
 
       TextField("Email", text: $email)
