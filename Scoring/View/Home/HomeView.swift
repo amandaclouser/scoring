@@ -44,7 +44,7 @@ struct HomeView: View {
           }
         }
       }
-      .navigationBarTitle(Text("Skeleton"), displayMode: .inline)
+      .navigationBarTitle(Text("H & F Scoring"), displayMode: .inline)
       .navigationBarItems(trailing: profileItem)
     }
     .onAppear {
